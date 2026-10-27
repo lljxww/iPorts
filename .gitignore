@@ -1,0 +1,12 @@
+.build/
+build/
+.swiftpm/
+.DS_Store
+*.xcuserstate
+__pycache__/
+*.pyc
+.secrets/
+*.private-key
+.env
+.env.*
+!.env.example

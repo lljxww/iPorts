@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.3.1
+      - name: Resolve dependencies
+        run: swift package resolve
+      - name: Check Swift formatting
+        run: xcrun swift-format lint --strict --recursive Package.swift src tests scripts/create-icon.swift
+      - name: Test application
+        run: swift test
+      - name: Test release version validation
+        run: python3 -m unittest discover -s tests/ReleaseTests -v
+      - name: Check shell scripts
+        run: bash -n scripts/build-app.sh scripts/create-release.sh
+      - name: Verify native application bundle
+        run: bash scripts/build-app.sh

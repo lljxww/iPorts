@@ -1,0 +1,1863 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-16",
+  "models": [
+    {
+      "id": "macBookPro-40a23f77d9d26575",
+      "identifiers": [
+        "Mac17,7",
+        "Mac17,9"
+      ],
+      "name": "MacBook Pro (14-inch, M5 Pro or M5 Max)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-pro-m5-max.png",
+      "imageName": "apple-9e754275d1b4364c033f",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/126318"
+    },
+    {
+      "id": "macBookPro-e6f59024c9fd5d4f",
+      "identifiers": [
+        "Mac17,6",
+        "Mac17,8"
+      ],
+      "name": "MacBook Pro (16-inch, M5 Pro or M5 Max)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m5-pro-m5-max.png",
+      "imageName": "apple-fe0f2422ab900e59a8f3",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/126319"
+    },
+    {
+      "id": "macBookPro-3e1ef92f10b6371d",
+      "identifiers": [
+        "Mac17,2"
+      ],
+      "name": "MacBook Pro (14-inch, M5)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-colors.png",
+      "imageName": "apple-00d143bafd54cd617e70",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/125405"
+    },
+    {
+      "id": "macBookPro-0a4720f7ed27a558",
+      "identifiers": [
+        "Mac16,1"
+      ],
+      "name": "MacBook Pro (14-inch, 2024)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-colors.png",
+      "imageName": "apple-ca2beb96894a50961385",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/121552"
+    },
+    {
+      "id": "macBookPro-22fbb55705f7c75a",
+      "identifiers": [
+        "Mac16,6",
+        "Mac16,8"
+      ],
+      "name": "MacBook Pro (14-inch, 2024)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-pro-m4-max-colors.png",
+      "imageName": "apple-84b95828b9db82b0850a",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/121553"
+    },
+    {
+      "id": "macBookPro-8ae16cb6ce6c8a2c",
+      "identifiers": [
+        "Mac16,5",
+        "Mac16,7"
+      ],
+      "name": "MacBook Pro (16-inch, 2024)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2024-colors.png",
+      "imageName": "apple-59db4feed72cc708b1c0",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/121554"
+    },
+    {
+      "id": "macBookPro-c34021721b17292b",
+      "identifiers": [
+        "Mac15,3"
+      ],
+      "name": "MacBook Pro (14-inch, Nov 2023)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-nov-2023-silver-space-gray.png",
+      "imageName": "apple-efa519edbc0b1bb36166",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/117735"
+    },
+    {
+      "id": "macBookPro-dc48853fbad13007",
+      "identifiers": [
+        "Mac15,10",
+        "Mac15,6",
+        "Mac15,8"
+      ],
+      "name": "MacBook Pro (14-inch, Nov 2023)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-pro-m3-max-nov-2023-silver-space-black.png",
+      "imageName": "apple-275ec699b9ed2d62d089",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/117736"
+    },
+    {
+      "id": "macBookPro-782d486590e9e48e",
+      "identifiers": [
+        "Mac15,11",
+        "Mac15,7",
+        "Mac15,9"
+      ],
+      "name": "MacBook Pro (16-inch, Nov 2023)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m3-pro-m3-max-nov-2023-silver-space-black.png",
+      "imageName": "apple-d132d5e8957d4960e877",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/117737"
+    },
+    {
+      "id": "macBookPro-e4fd4e0f35723e3a",
+      "identifiers": [
+        "Mac14,5",
+        "Mac14,9"
+      ],
+      "name": "MacBook Pro (14-inch, 2023)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2023.png",
+      "imageName": "apple-d0171dba00fafd5b3675",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111340"
+    },
+    {
+      "id": "macBookPro-2211e1583917ae21",
+      "identifiers": [
+        "Mac14,10",
+        "Mac14,6"
+      ],
+      "name": "MacBook Pro (16-inch, 2023)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2023.png",
+      "imageName": "apple-e3f3c83ec2f8f014b990",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111838"
+    },
+    {
+      "id": "macBookPro-89ee787a7c7cc928",
+      "identifiers": [
+        "Mac14,7"
+      ],
+      "name": "MacBook Pro (13-inch, M2, 2022)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-13-in-M2-2022.png",
+      "imageName": "apple-6b571557127357ca8ad8",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111869"
+    },
+    {
+      "id": "macBookPro-7651fefbcaee4649",
+      "identifiers": [
+        "MacBookPro18,3",
+        "MacBookPro18,4"
+      ],
+      "name": "MacBook Pro (14-inch, 2021)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-14in.png",
+      "imageName": "apple-3f3e98fbf3296db03338",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111902"
+    },
+    {
+      "id": "macBookPro-dcbead3894ef01da",
+      "identifiers": [
+        "MacBookPro18,1",
+        "MacBookPro18,2"
+      ],
+      "name": "MacBook Pro (16-inch, 2021)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-16in.png",
+      "imageName": "apple-ab4324bf989ad0341f2b",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111901"
+    },
+    {
+      "id": "macBookPro-18862604492dbc96",
+      "identifiers": [
+        "MacBookPro17,1"
+      ],
+      "name": "MacBook Pro (13-inch, M1, 2020)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-late-13in-device.jpg",
+      "imageName": "apple-aa61fea1a811639d300c",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111893"
+    },
+    {
+      "id": "macBookPro-e3a4345ffc7d1a8d",
+      "identifiers": [
+        "MacBookPro16,3"
+      ],
+      "name": "MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-13in-device-3.jpg",
+      "imageName": "apple-0f20f0e1051e4b823b43",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111981"
+    },
+    {
+      "id": "macBookPro-8c5acf2fb029c0f4",
+      "identifiers": [
+        "MacBookPro16,2"
+      ],
+      "name": "MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-13in-device-3.jpg",
+      "imageName": "apple-0f20f0e1051e4b823b43",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111339"
+    },
+    {
+      "id": "macBookPro-683a75814c70b76b",
+      "identifiers": [
+        "MacBookPro16,1",
+        "MacBookPro16,4"
+      ],
+      "name": "MacBook Pro (16-inch, 2019)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2019.jpg",
+      "imageName": "apple-0f3890e2cc846a0aec77",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111932"
+    },
+    {
+      "id": "macBookPro-7b63be1d8d05e3e8",
+      "identifiers": [
+        "MacBookPro15,4"
+      ],
+      "name": "MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-13in-device.jpg",
+      "imageName": "apple-31dcda2ea7d355b08143",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111945"
+    },
+    {
+      "id": "macBookPro-f5c866fd408c7222",
+      "identifiers": [
+        "MacBookPro15,1",
+        "MacBookPro15,3"
+      ],
+      "name": "MacBook Pro (15-inch, 2019)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
+      "imageName": "apple-fea22df72dbed21e86d0",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111941"
+    },
+    {
+      "id": "macBookPro-8c92a51b4fec0d37",
+      "identifiers": [
+        "MacBookPro15,2"
+      ],
+      "name": "MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-13in-device.jpg",
+      "imageName": "apple-31dcda2ea7d355b08143",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111997"
+    },
+    {
+      "id": "macBookPro-6af569b1914b28bb",
+      "identifiers": [
+        "MacBookPro15,1"
+      ],
+      "name": "MacBook Pro (15-inch, 2018)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
+      "imageName": "apple-fea22df72dbed21e86d0",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111949"
+    },
+    {
+      "id": "macBookPro-c35e049a087c9bc7",
+      "identifiers": [
+        "MacBookPro15,2"
+      ],
+      "name": "MacBook Pro (13-inch, 2018, Four Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-13in-device.jpg",
+      "imageName": "apple-31dcda2ea7d355b08143",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111925"
+    },
+    {
+      "id": "macBookPro-7f8af637833179ea",
+      "identifiers": [
+        "MacBookPro14,3"
+      ],
+      "name": "MacBook Pro (15-inch, 2017)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-15in-device.jpg",
+      "imageName": "apple-d4e7552565e4c2d48954",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111947"
+    },
+    {
+      "id": "macBookPro-4f01ff35276d847f",
+      "identifiers": [
+        "MacBookPro14,2"
+      ],
+      "name": "MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-13in-device.jpg",
+      "imageName": "apple-73541ed14c96ea440392",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111972"
+    },
+    {
+      "id": "macBookPro-2769f563564b956e",
+      "identifiers": [
+        "MacBookPro14,1"
+      ],
+      "name": "MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-13in-device-2thunderbolt-3ports.jpg",
+      "imageName": "apple-ec3da50c77277c2188bf",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111951"
+    },
+    {
+      "id": "macBookPro-fe2a5fdbfb821698",
+      "identifiers": [
+        "MacBookPro13,3"
+      ],
+      "name": "MacBook Pro (15-inch, 2016)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-15in-device.jpg",
+      "imageName": "apple-ac68770cf8bf5c129e31",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111975"
+    },
+    {
+      "id": "macBookPro-ffb0c46a8009e08c",
+      "identifiers": [
+        "MacBookPro13,2"
+      ],
+      "name": "MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-13in-device.jpg",
+      "imageName": "apple-b32186a2bc61578871f8",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112003"
+    },
+    {
+      "id": "macBookPro-3023c82697d4bd4f",
+      "identifiers": [
+        "MacBookPro13,1"
+      ],
+      "name": "MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-13in-device.jpg",
+      "imageName": "apple-b32186a2bc61578871f8",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111999"
+    },
+    {
+      "id": "macBookPro-b57bfef2597125bb",
+      "identifiers": [
+        "MacBookPro11,4",
+        "MacBookPro11,5"
+      ],
+      "name": "MacBook Pro (Retina, 15-inch, Mid 2015)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2015-15in-device.jpg",
+      "imageName": "apple-529756c844e5a8d142b8",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111955"
+    },
+    {
+      "id": "macBookPro-8c74de95d83f3492",
+      "identifiers": [
+        "MacBookPro12,1"
+      ],
+      "name": "MacBook Pro (Retina, 13-inch, Early 2015)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2015-13in-device.jpg",
+      "imageName": "apple-f1a709e8bb6f1a7162a9",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111959"
+    },
+    {
+      "id": "macBookPro-7fc9f6afffe7f2c2",
+      "identifiers": [
+        "MacBookPro11,2",
+        "MacBookPro11,3"
+      ],
+      "name": "MacBook Pro (Retina, 15-inch, Mid 2014)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2014-15in-device.jpg",
+      "imageName": "apple-c9161d1f17eda10f0701",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111935"
+    },
+    {
+      "id": "macBookPro-f27eadcfd9c242b4",
+      "identifiers": [
+        "MacBookPro11,1"
+      ],
+      "name": "MacBook Pro (Retina, 13-inch, Mid 2014)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2014-13in-device.jpg",
+      "imageName": "apple-87e7d82596a461650ee8",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111942"
+    },
+    {
+      "id": "macBookPro-fec0706a8baf8e2e",
+      "identifiers": [
+        "MacBookPro11,2",
+        "MacBookPro11,3"
+      ],
+      "name": "MacBook Pro (Retina, 15-inch, Late 2013)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2013-15in-device.jpg",
+      "imageName": "apple-ac38eb0ec06c2f3f49a2",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111971"
+    },
+    {
+      "id": "macBookPro-c9bf6d4123c5bc4f",
+      "identifiers": [
+        "MacBookPro11,1"
+      ],
+      "name": "MacBook Pro (Retina, 13-inch, Late 2013)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2013-13in-device.jpg",
+      "imageName": "apple-6069ba2bedac7dbf053c",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111946"
+    },
+    {
+      "id": "macBookPro-5af48975759e98a1",
+      "identifiers": [
+        "MacBookPro10,1"
+      ],
+      "name": "MacBook Pro (Retina, 15-inch, Early 2013)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2013-15in-device.jpg",
+      "imageName": "apple-b4850c11fd8e1f5d2634",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/118465"
+    },
+    {
+      "id": "macBookPro-b4941e2dd2b5f7da",
+      "identifiers": [
+        "MacBookPro10,2"
+      ],
+      "name": "MacBook Pro (Retina, 13-inch, Early 2013)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2013-13in-device.jpg",
+      "imageName": "apple-bf20c3a51a028d053279",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/118466"
+    },
+    {
+      "id": "macBookPro-5e7cc16454c605ac",
+      "identifiers": [
+        "MacBookPro10,2"
+      ],
+      "name": "MacBook Pro (Retina, 13-inch, Late 2012)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2012-13in-device.jpg",
+      "imageName": "apple-ea6a5ca0df455695ed9c",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/118463"
+    },
+    {
+      "id": "macBookPro-79091bd77b32a48a",
+      "identifiers": [
+        "MacBookPro10,1"
+      ],
+      "name": "MacBook Pro (Retina, 15-inch, Mid 2012)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-15in-device.jpg",
+      "imageName": "apple-45df99152bd12e1566d9",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112576"
+    },
+    {
+      "id": "macBookPro-e84747bdbe917e20",
+      "identifiers": [
+        "MacBookPro9,1"
+      ],
+      "name": "MacBook Pro (15-inch, Mid 2012)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-15in-device2.jpg",
+      "imageName": "apple-b022cbaf6b27fc71a9b1",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112568"
+    },
+    {
+      "id": "macBookPro-5aae32dfd3f8c8d8",
+      "identifiers": [
+        "MacBookPro9,2"
+      ],
+      "name": "MacBook Pro (13-inch, Mid 2012)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-13in-device.jpg",
+      "imageName": "apple-48bbe4dbea0d7c63f3f3",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111958"
+    },
+    {
+      "id": "macBookPro-47d10ecc0a093ba0",
+      "identifiers": [
+        "MacBookPro8,3"
+      ],
+      "name": "MacBook Pro (17-inch, Late 2011)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-17in-device.jpg",
+      "imageName": "apple-94e8d3e0e59d8e771363",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112418"
+    },
+    {
+      "id": "macBookPro-3eed92ee49b72305",
+      "identifiers": [
+        "MacBookPro8,2"
+      ],
+      "name": "MacBook Pro (15-inch, Late 2011)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-15in-device.jpg",
+      "imageName": "apple-0d9cbffc5db629efecab",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112586"
+    },
+    {
+      "id": "macBookPro-ecca106b27e96b2f",
+      "identifiers": [
+        "MacBookPro8,1"
+      ],
+      "name": "MacBook Pro (13-inch, Late 2011)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-13in-device.jpg",
+      "imageName": "apple-45c6b9054b269181de8a",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/111341"
+    },
+    {
+      "id": "macBookPro-347e550b9a4478c7",
+      "identifiers": [
+        "MacBookPro8,3"
+      ],
+      "name": "MacBook Pro (17-inch, Early 2011)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-17in-device.jpg",
+      "imageName": "apple-7ac97714426f59b4cec9",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112598"
+    },
+    {
+      "id": "macBookPro-5be633ffcb7651f0",
+      "identifiers": [
+        "MacBookPro8,2"
+      ],
+      "name": "MacBook Pro (15-inch, Early 2011)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-15in-device.jpg",
+      "imageName": "apple-b410ad9729f51f23931c",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112599"
+    },
+    {
+      "id": "macBookPro-a60a01744a94b900",
+      "identifiers": [
+        "MacBookPro8,1"
+      ],
+      "name": "MacBook Pro (13-inch, Early 2011)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-13in-device.jpg",
+      "imageName": "apple-71df56e376c37a87009b",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112600"
+    },
+    {
+      "id": "macBookPro-4e60cddecbdc4795",
+      "identifiers": [
+        "MacBookPro6,1"
+      ],
+      "name": "MacBook Pro (17-inch, Mid 2010)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-17in-device.jpg",
+      "imageName": "apple-e3683011df6afa4e6505",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112606"
+    },
+    {
+      "id": "macBookPro-581f2cd13cd935b0",
+      "identifiers": [
+        "MacBookPro6,2"
+      ],
+      "name": "MacBook Pro (15-inch, Mid 2010)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-15in-device.jpg",
+      "imageName": "apple-44284800768aa097e028",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112605"
+    },
+    {
+      "id": "macBookPro-0f68b7c09eb5e246",
+      "identifiers": [
+        "MacBookPro7,1"
+      ],
+      "name": "MacBook Pro (13-inch, Mid 2010)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-13in-device.jpg",
+      "imageName": "apple-79704dc90e4e9cf1529d",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112604"
+    },
+    {
+      "id": "macBookPro-1141eb555e1f5ae8",
+      "identifiers": [
+        "MacBookPro5,2"
+      ],
+      "name": "MacBook Pro (17-inch, Mid 2009)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-mid-2009-17in-device.jpg",
+      "imageName": "apple-b4d44285d15d8ed010ef",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112473"
+    },
+    {
+      "id": "macBookPro-7fac2832f5a183a0",
+      "identifiers": [
+        "MacBookPro5,3"
+      ],
+      "name": "MacBook Pro (15-inch, Mid 2009)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-15in-device.jpg",
+      "imageName": "apple-1778307600e440c9b04a",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112624"
+    },
+    {
+      "id": "macBookPro-b03dbaa964b7e857",
+      "identifiers": [
+        "MacBookPro5,3"
+      ],
+      "name": "MacBook Pro (15-inch, 2.53GHz, Mid 2009)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-15in-device.jpg",
+      "imageName": "apple-1778307600e440c9b04a",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112624"
+    },
+    {
+      "id": "macBookPro-4500073717735ee0",
+      "identifiers": [
+        "MacBookPro5,5"
+      ],
+      "name": "MacBook Pro (13-inch, Mid 2009)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-13in-device.jpg",
+      "imageName": "apple-ef7d66518ac5edcf310c",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112474"
+    },
+    {
+      "id": "macBookPro-2cf0d76d20344f99",
+      "identifiers": [
+        "MacBookPro5,2"
+      ],
+      "name": "MacBook Pro (17-inch, Early 2009)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-mid-2009-17in-device.jpg",
+      "imageName": "apple-b4d44285d15d8ed010ef",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": "https://support.apple.com/en-us/112526"
+    },
+    {
+      "id": "macBookPro-a4dbce6ba782bfcf",
+      "identifiers": [
+        "MacBookPro5,1"
+      ],
+      "name": "MacBook Pro (15-inch, Late 2008)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2008-15in-device.jpg",
+      "imageName": "apple-4f5a82fcdc9a1d5f5844",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": null
+    },
+    {
+      "id": "macBookPro-650fdef6e7d0b2b0",
+      "identifiers": [
+        "MacBookPro4,1"
+      ],
+      "name": "MacBook Pro (17-inch, Early 2008)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2008-17in-device.jpg",
+      "imageName": "apple-7ba3cc5183c279076ec8",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": null
+    },
+    {
+      "id": "macBookPro-88d985d62b2e6fa0",
+      "identifiers": [
+        "MacBookPro4,1"
+      ],
+      "name": "MacBook Pro (15-inch, Early 2008)",
+      "family": "macBookPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2008-15in-device.jpg",
+      "imageName": "apple-c3452a6db171f06dcb91",
+      "sourceURL": "https://support.apple.com/en-us/108052",
+      "specsURL": null
+    },
+    {
+      "id": "macBookAir-d6293e7c783b6509",
+      "identifiers": [
+        "Mac17,4"
+      ],
+      "name": "MacBook Air (15-inch, M5)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-15in-m5-colors.png",
+      "imageName": "apple-e68f88274662c47c5352",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/126321"
+    },
+    {
+      "id": "macBookAir-0869048efe7f0138",
+      "identifiers": [
+        "Mac17,3"
+      ],
+      "name": "MacBook Air (13-inch, M5)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-13in-m5-colors.png",
+      "imageName": "apple-5ac81ecb11ec744393e9",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/126320"
+    },
+    {
+      "id": "macBookAir-aa460c11f95129d0",
+      "identifiers": [
+        "Mac16,13"
+      ],
+      "name": "MacBook Air (15-inch, M4, 2025)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-15in-colors.png",
+      "imageName": "apple-b96d4bf75f3a553a034b",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/122210"
+    },
+    {
+      "id": "macBookAir-915fa579c2c20484",
+      "identifiers": [
+        "Mac16,12"
+      ],
+      "name": "MacBook Air (13-inch, M4, 2025)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-13in-colors.png",
+      "imageName": "apple-27f0ea0c246087f6794c",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/122209"
+    },
+    {
+      "id": "macBookAir-8f8307dcfeae8d0f",
+      "identifiers": [
+        "Mac15,13"
+      ],
+      "name": "MacBook Air (15-inch, M3, 2024)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-15in-m3-colors.png",
+      "imageName": "apple-9ba8b350f0f926a626ed",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/118552"
+    },
+    {
+      "id": "macBookAir-9324143cab1bd311",
+      "identifiers": [
+        "Mac15,12"
+      ],
+      "name": "MacBook Air (13-inch, M3, 2024)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-13in-m3-colors.png",
+      "imageName": "apple-61cc79c06ffa940760b6",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/118551"
+    },
+    {
+      "id": "macBookAir-0b34d4efd34a7882",
+      "identifiers": [
+        "Mac14,15"
+      ],
+      "name": "MacBook Air (15-inch, M2, 2023)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2023-macbook-air-15in-m2-colors.png",
+      "imageName": "apple-cb367e3aea39eaecea21",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111346"
+    },
+    {
+      "id": "macBookAir-41fbaa1baac3fe77",
+      "identifiers": [
+        "Mac14,2"
+      ],
+      "name": "MacBook Air (M2, 2022)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2022-macbook-air-m2-colors.png",
+      "imageName": "apple-b6bc08955b4f7fb5bed0",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111867"
+    },
+    {
+      "id": "macBookAir-c5ec172bd9c61983",
+      "identifiers": [
+        "MacBookAir10,1"
+      ],
+      "name": "MacBook Air (M1, 2020)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2020-late-device.jpg",
+      "imageName": "apple-3909d3e68ea6c6619f72",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111883"
+    },
+    {
+      "id": "macBookAir-6435263c750c6fe9",
+      "identifiers": [
+        "MacBookAir9,1"
+      ],
+      "name": "MacBook Air (Retina, 13-inch, 2020)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2020-device.jpg",
+      "imageName": "apple-aac678fb3d338d4766fe",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111991"
+    },
+    {
+      "id": "macBookAir-ceafc01a82b7c628",
+      "identifiers": [
+        "MacBookAir8,2"
+      ],
+      "name": "MacBook Air (Retina, 13-inch, 2019)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2018-device.jpg",
+      "imageName": "apple-d2b31f5197d4d1fd07d3",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111948"
+    },
+    {
+      "id": "macBookAir-784b81bf60b06bb8",
+      "identifiers": [
+        "MacBookAir8,1"
+      ],
+      "name": "MacBook Air (Retina, 13-inch, 2018)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2018-device.jpg",
+      "imageName": "apple-d2b31f5197d4d1fd07d3",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111933"
+    },
+    {
+      "id": "macBookAir-86b3b404e055f90c",
+      "identifiers": [
+        "MacBookAir7,2"
+      ],
+      "name": "MacBook Air (13-inch, 2017)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2017-device.jpg",
+      "imageName": "apple-db80d1d6eb0368c2e7b3",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111924"
+    },
+    {
+      "id": "macBookAir-aff9bc3ab914209c",
+      "identifiers": [
+        "MacBookAir7,2"
+      ],
+      "name": "MacBook Air (13-inch, Early 2015)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2015-13in-device.jpg",
+      "imageName": "apple-9414c99de2660a6bed8d",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111956"
+    },
+    {
+      "id": "macBookAir-b00d1924597fc4db",
+      "identifiers": [
+        "MacBookAir7,1"
+      ],
+      "name": "MacBook Air (11-inch, Early 2015)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2015-11in-device.jpg",
+      "imageName": "apple-d7fb094f051964dd7147",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112441"
+    },
+    {
+      "id": "macBookAir-5a1aa86ff6e11874",
+      "identifiers": [
+        "MacBookAir6,2"
+      ],
+      "name": "MacBook Air (13-inch, Early 2014)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-13in-device.jpg",
+      "imageName": "apple-37665afa0d8a9b7c05e5",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111944"
+    },
+    {
+      "id": "macBookAir-31cdc60282367896",
+      "identifiers": [
+        "MacBookAir6,1"
+      ],
+      "name": "MacBook Air (11-inch, Early 2014)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-11in-device.jpg",
+      "imageName": "apple-276bfc03d98de0fa7941",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112032"
+    },
+    {
+      "id": "macBookAir-76d01e3b4172389a",
+      "identifiers": [
+        "MacBookAir6,2"
+      ],
+      "name": "MacBook Air (13-inch, Mid 2013)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-13in-device.jpg",
+      "imageName": "apple-37665afa0d8a9b7c05e5",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111938"
+    },
+    {
+      "id": "macBookAir-c69b6841fe011ee2",
+      "identifiers": [
+        "MacBookAir6,1"
+      ],
+      "name": "MacBook Air (11-inch, Mid 2013)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-11in-device.jpg",
+      "imageName": "apple-276bfc03d98de0fa7941",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112437"
+    },
+    {
+      "id": "macBookAir-214e64d2e2924b1a",
+      "identifiers": [
+        "MacBookAir5,2"
+      ],
+      "name": "MacBook Air (13-inch, Mid 2012)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2012-13in-device.jpg",
+      "imageName": "apple-389f236360c1c558f761",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/111966"
+    },
+    {
+      "id": "macBookAir-03b6cb53495ed71b",
+      "identifiers": [
+        "MacBookAir5,1"
+      ],
+      "name": "MacBook Air (11-inch, Mid 2012)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2012-11in-device.jpg",
+      "imageName": "apple-6e4f414b1cea2afd6d41",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112008"
+    },
+    {
+      "id": "macBookAir-e5aa0c68b9b64a1f",
+      "identifiers": [
+        "MacBookAir4,2"
+      ],
+      "name": "MacBook Air (13-inch, Mid 2011)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2011-13in-device.jpg",
+      "imageName": "apple-12111bc52c00b4a02d46",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112038"
+    },
+    {
+      "id": "macBookAir-98d95bee47afa954",
+      "identifiers": [
+        "MacBookAir4,1"
+      ],
+      "name": "MacBook Air (11-inch, Mid 2011)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2011-11in-device.jpg",
+      "imageName": "apple-3bfd334955b656fa8c72",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112439"
+    },
+    {
+      "id": "macBookAir-a93884cac621bc67",
+      "identifiers": [
+        "MacBookAir3,2"
+      ],
+      "name": "MacBook Air (13-inch, Late 2010)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2009-2010-13in-device.jpg",
+      "imageName": "apple-f5d75373fba04073254f",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112585"
+    },
+    {
+      "id": "macBookAir-748006b3b7641e6b",
+      "identifiers": [
+        "MacBookAir3,1"
+      ],
+      "name": "MacBook Air (11-inch, Late 2010)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2010-11in-device.jpg",
+      "imageName": "apple-dd60555ef10501251d20",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112580"
+    },
+    {
+      "id": "macBookAir-96687a9bf74d5125",
+      "identifiers": [
+        "MacBookAir2,1"
+      ],
+      "name": "MacBook Air (Mid 2009)",
+      "family": "macBookAir",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2009-2010-13in-device.jpg",
+      "imageName": "apple-f5d75373fba04073254f",
+      "sourceURL": "https://support.apple.com/en-us/102869",
+      "specsURL": "https://support.apple.com/en-us/112660"
+    },
+    {
+      "id": "macBook-094c5f24787420de",
+      "identifiers": [
+        "MacBook10,1"
+      ],
+      "name": "MacBook (Retina, 12-inch, 2017)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-2017-device.jpg",
+      "imageName": "apple-c05920b2322406e40a3e",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "macBook-1873d0abcc1dec9a",
+      "identifiers": [
+        "MacBook9,1"
+      ],
+      "name": "MacBook (Retina, 12-inch, Early 2016)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-2016-device.jpg",
+      "imageName": "apple-f1ce70e5a340a46afa14",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "macBook-52d63246a6b4e283",
+      "identifiers": [
+        "MacBook8,1"
+      ],
+      "name": "MacBook (Retina, 12-inch, Early 2015)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-2015-device.jpg",
+      "imageName": "apple-579c17ebba5f94d6f6c4",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "macBook-b6d10204908f4509",
+      "identifiers": [
+        "MacBook7,1"
+      ],
+      "name": "MacBook (13-inch, Mid 2010)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-late-2009-2010-device.jpg",
+      "imageName": "apple-0c1a19f0dc67e351847b",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "macBook-b32282fadfa7eccb",
+      "identifiers": [
+        "MacBook6,1"
+      ],
+      "name": "MacBook (13-inch, Late 2009)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-late-2009-2010-device.jpg",
+      "imageName": "apple-0c1a19f0dc67e351847b",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "macBook-6a01a415ad9ee1ee",
+      "identifiers": [
+        "MacBook5,2"
+      ],
+      "name": "MacBook (13-inch, Mid 2009)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-early-mid-2009-device.jpg",
+      "imageName": "apple-a6ab816befb01a1c1b67",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "macBook-6e2ec6421528a269",
+      "identifiers": [
+        "MacBook5,2"
+      ],
+      "name": "MacBook (13-inch, Early 2009)",
+      "family": "macBook",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/macbook/macbook-early-mid-2009-device.jpg",
+      "imageName": "apple-a6ab816befb01a1c1b67",
+      "sourceURL": "https://support.apple.com/en-us/103257",
+      "specsURL": null
+    },
+    {
+      "id": "iMac-b0b0dac74b569d32",
+      "identifiers": [
+        "Mac16,3"
+      ],
+      "name": "iMac (24-inch, 2024, Four ports)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-four-ports-colors.png",
+      "imageName": "apple-6eeb344a3f54465f0816",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/121557"
+    },
+    {
+      "id": "iMac-92d386682f0bb9f5",
+      "identifiers": [
+        "Mac16,2"
+      ],
+      "name": "iMac (24-inch, 2024, Two ports)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-two-ports-colors.png",
+      "imageName": "apple-660e5236b2a7c607c9c6",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/121556"
+    },
+    {
+      "id": "iMac-f5dfb3d1853b6435",
+      "identifiers": [
+        "Mac15,5"
+      ],
+      "name": "iMac (24-inch, 2023, Four ports)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-four-ports-colors.png",
+      "imageName": "apple-2764bd2c43bb966c4b63",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/117734"
+    },
+    {
+      "id": "iMac-d1c87545ac4377fe",
+      "identifiers": [
+        "Mac15,4"
+      ],
+      "name": "iMac (24-inch, 2023, Two ports)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
+      "imageName": "apple-1302f5dbc9bfc5a7181e",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/117733"
+    },
+    {
+      "id": "iMac-a8c68a1966cc1582",
+      "identifiers": [
+        "iMac21,1"
+      ],
+      "name": "iMac (24-inch, M1, 2021)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/id-imac-24-2021.png",
+      "imageName": "apple-dd446e34dda0d0dd8664",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111895"
+    },
+    {
+      "id": "iMac-88a07a5aad310bbf",
+      "identifiers": [
+        "iMac21,2"
+      ],
+      "name": "iMac (24-inch, M1, 2021)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/id-imac-24-2021-2.png",
+      "imageName": "apple-4f6e67e7b174dffe5e2c",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111895"
+    },
+    {
+      "id": "iMac-82ce99db98637005",
+      "identifiers": [
+        "iMac20,1",
+        "iMac20,2"
+      ],
+      "name": "iMac (Retina 5K, 27-inch, 2020)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2020.jpg",
+      "imageName": "apple-df3f8557d5f013f47833",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111913"
+    },
+    {
+      "id": "iMac-784b44dc2a1723e9",
+      "identifiers": [
+        "iMac19,1"
+      ],
+      "name": "iMac (Retina 5K, 27-inch, 2019)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2019.jpg",
+      "imageName": "apple-448d159a2cbc7f71e0d4",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111998"
+    },
+    {
+      "id": "iMac-c0ab9be4acb93eea",
+      "identifiers": [
+        "iMac19,2"
+      ],
+      "name": "iMac (Retina 4K, 21.5-inch, 2019)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2019.jpg",
+      "imageName": "apple-13908c80166d8104276b",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111963"
+    },
+    {
+      "id": "iMac-fb0db8787c98bfc4",
+      "identifiers": [
+        "iMacPro1,1"
+      ],
+      "name": "iMac Pro (2017)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-pro-2017.jpg",
+      "imageName": "apple-e5797916984a7bbb91f5",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111995"
+    },
+    {
+      "id": "iMac-8956b60764cad501",
+      "identifiers": [
+        "iMac18,3"
+      ],
+      "name": "iMac (Retina 5K, 27-inch, 2017)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2017.jpg",
+      "imageName": "apple-170b48b7360077e056d5",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111969"
+    },
+    {
+      "id": "iMac-63bf8bc136376f5e",
+      "identifiers": [
+        "iMac18,2"
+      ],
+      "name": "iMac (Retina 4K, 21.5-inch, 2017)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2017.jpg",
+      "imageName": "apple-32ed0ea1345183ea81cf",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112026"
+    },
+    {
+      "id": "iMac-e8a566ea2ea16ebc",
+      "identifiers": [
+        "iMac18,1"
+      ],
+      "name": "iMac (21.5-inch, 2017)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2017.jpg",
+      "imageName": "apple-32ed0ea1345183ea81cf",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111921"
+    },
+    {
+      "id": "iMac-4cf3738f66ee20bb",
+      "identifiers": [
+        "iMac17,1"
+      ],
+      "name": "iMac (Retina 5K, 27-inch, Late 2015)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-late-2015.jpg",
+      "imageName": "apple-c5bcfcbec33227775437",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112035"
+    },
+    {
+      "id": "iMac-da7e6ee5b14451c9",
+      "identifiers": [
+        "iMac16,2"
+      ],
+      "name": "iMac (Retina 4K, 21.5-inch, Late 2015)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2015.jpg",
+      "imageName": "apple-f4ae3791d0d22297fdaf",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112034"
+    },
+    {
+      "id": "iMac-24e93a09c11ca78b",
+      "identifiers": [
+        "iMac16,1"
+      ],
+      "name": "iMac (21.5-inch, Late 2015)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2015.jpg",
+      "imageName": "apple-f4ae3791d0d22297fdaf",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112036"
+    },
+    {
+      "id": "iMac-7a7d6d2802d4d191",
+      "identifiers": [
+        "iMac15,1"
+      ],
+      "name": "iMac (Retina 5K, 27-inch, Mid 2015)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-mid-2015.jpg",
+      "imageName": "apple-c842445d7c4e2950da9e",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112434"
+    },
+    {
+      "id": "iMac-30913d92e70b8530",
+      "identifiers": [
+        "iMac15,1"
+      ],
+      "name": "iMac (Retina 5K, 27-inch, Late 2014)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2014.jpg",
+      "imageName": "apple-01717ea09b0746dc824d",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112436"
+    },
+    {
+      "id": "iMac-620ac1c89ef9f4d1",
+      "identifiers": [
+        "iMac14,4"
+      ],
+      "name": "iMac (21.5-inch, Mid 2014)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2014.jpg",
+      "imageName": "apple-53de71dcaf99c7f1e860",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112031"
+    },
+    {
+      "id": "iMac-4ad88b6166062e6a",
+      "identifiers": [
+        "iMac14,2"
+      ],
+      "name": "iMac (27-inch, Late 2013)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2013.jpg",
+      "imageName": "apple-9819e2af2e04b2cb82f0",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111970"
+    },
+    {
+      "id": "iMac-6d1a273049040d4f",
+      "identifiers": [
+        "iMac14,1"
+      ],
+      "name": "iMac (21.5-inch, Late 2013)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2013.jpg",
+      "imageName": "apple-b5e21ac97445d782bfa9",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111967"
+    },
+    {
+      "id": "iMac-04411b6f94d12bf8",
+      "identifiers": [
+        "iMac13,2"
+      ],
+      "name": "iMac (27-inch, Late 2012)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2012.jpg",
+      "imageName": "apple-1aeb72636dc4e09eceb8",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112433"
+    },
+    {
+      "id": "iMac-85667d1942e30a63",
+      "identifiers": [
+        "iMac13,1"
+      ],
+      "name": "iMac (21.5-inch, Late 2012)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2012.jpg",
+      "imageName": "apple-7c040b077372bee8e4a1",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112435"
+    },
+    {
+      "id": "iMac-ea329e824f02d420",
+      "identifiers": [
+        "iMac12,2"
+      ],
+      "name": "iMac (27-inch, Mid 2011)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2011.jpg",
+      "imageName": "apple-145d8bd13187586d088c",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112569"
+    },
+    {
+      "id": "iMac-5baca4f5bf28f3cf",
+      "identifiers": [
+        "iMac12,1"
+      ],
+      "name": "iMac (21.5-inch, Mid 2011)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2011.jpg",
+      "imageName": "apple-8916c7b1b6ce1ae3573a",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/111983"
+    },
+    {
+      "id": "iMac-9cb5cd7545b13e0c",
+      "identifiers": [
+        "iMac11,3"
+      ],
+      "name": "iMac (27-inch, Mid 2010)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2010.jpg",
+      "imageName": "apple-3a2e072f61c333795237",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112566"
+    },
+    {
+      "id": "iMac-2705dcc9ddcbbc90",
+      "identifiers": [
+        "iMac11,2"
+      ],
+      "name": "iMac (21.5-inch, Mid 2010)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2010.jpg",
+      "imageName": "apple-62ce81302aeb00870e7b",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112567"
+    },
+    {
+      "id": "iMac-777134cc14550dbf",
+      "identifiers": [
+        "iMac10,1"
+      ],
+      "name": "iMac (27-inch, Late 2009)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2009-late.jpg",
+      "imageName": "apple-f8229eb68031c7b96ceb",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112564"
+    },
+    {
+      "id": "iMac-7fdc5b9e9bc6c504",
+      "identifiers": [
+        "iMac10,1"
+      ],
+      "name": "iMac (21.5-inch, Late 2009)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2009-late.jpg",
+      "imageName": "apple-3249087da16da9ede3ae",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112565"
+    },
+    {
+      "id": "iMac-4e2c124871b8dd14",
+      "identifiers": [
+        "iMac9,1"
+      ],
+      "name": "iMac (24-inch, Early 2009)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24-2009-early.jpg",
+      "imageName": "apple-b8fb04b5d246e337b672",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112427"
+    },
+    {
+      "id": "iMac-07d83138f22ab791",
+      "identifiers": [
+        "iMac9,1"
+      ],
+      "name": "iMac (20-inch, Early 2009)",
+      "family": "iMac",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-20-2009-early.jpg",
+      "imageName": "apple-bd7e1aedcdc1040f4073",
+      "sourceURL": "https://support.apple.com/en-us/108054",
+      "specsURL": "https://support.apple.com/en-us/112427"
+    },
+    {
+      "id": "macMini-6be361c90a1551f5",
+      "identifiers": [
+        "Mac18,5"
+      ],
+      "name": "Mac mini (M6)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-m6.png",
+      "imageName": "apple-79300979694f17a463c8",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/128108"
+    },
+    {
+      "id": "macMini-57bbacdef3715969",
+      "identifiers": [
+        "Mac17,16"
+      ],
+      "name": "Mac mini (M5 Pro)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-m5-pro.png",
+      "imageName": "apple-864c90216cddfd4213ce",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/128108"
+    },
+    {
+      "id": "macMini-cd81a064204834c0",
+      "identifiers": [
+        "Mac16,10",
+        "Mac16,11"
+      ],
+      "name": "Mac mini (2024)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2024.png",
+      "imageName": "apple-aeb163fe5ecaa27428ec",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/121555"
+    },
+    {
+      "id": "macMini-35ab3120f6782682",
+      "identifiers": [
+        "Mac14,3"
+      ],
+      "name": "Mac mini (2023)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2023-m2.png",
+      "imageName": "apple-285912401f3e035cc121",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111837"
+    },
+    {
+      "id": "macMini-39ec6a2890927dff",
+      "identifiers": [
+        "Mac14,12"
+      ],
+      "name": "Mac mini (2023)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2023-m2-pro.png",
+      "imageName": "apple-30146af6fb76a651924c",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111837"
+    },
+    {
+      "id": "macMini-a1dd0b0bd1272200",
+      "identifiers": [
+        "Macmini9,1"
+      ],
+      "name": "Mac mini (M1, 2020)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2020-m1.png",
+      "imageName": "apple-5b14db4fb097d582cb68",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111894"
+    },
+    {
+      "id": "macMini-0891ebb5a95fc03e",
+      "identifiers": [
+        "Macmini8,1"
+      ],
+      "name": "Mac mini (2018)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2018.png",
+      "imageName": "apple-9096a14767388c21ddef",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111912"
+    },
+    {
+      "id": "macMini-887a3f49fbf0940f",
+      "identifiers": [
+        "Macmini7,1"
+      ],
+      "name": "Mac mini (Late 2014)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2014.png",
+      "imageName": "apple-7192f4a75af905f04944",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111931"
+    },
+    {
+      "id": "macMini-8c410f496ab9f891",
+      "identifiers": [
+        "Macmini6,1",
+        "Macmini6,2"
+      ],
+      "name": "Mac mini (Late 2012)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2012.png",
+      "imageName": "apple-380f5c60c50cb5dd3125",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111926"
+    },
+    {
+      "id": "macMini-b975d9a4dd3e7087",
+      "identifiers": [
+        "Macmini5,1",
+        "Macmini5,2"
+      ],
+      "name": "Mac mini (Mid 2011)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-mid-2011.png",
+      "imageName": "apple-68198f02f4a2804d980b",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/112007"
+    },
+    {
+      "id": "macMini-624ae64d09b79f00",
+      "identifiers": [
+        "Macmini4,1"
+      ],
+      "name": "Mac mini (Mid 2010)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-mid-2010.png",
+      "imageName": "apple-7f6f812b9accc8ddba40",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/112588"
+    },
+    {
+      "id": "macMini-e99d5ac01d926665",
+      "identifiers": [
+        "Macmini3,1"
+      ],
+      "name": "Mac mini (Late 2009)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2009.png",
+      "imageName": "apple-0d27dd9ed9a93d416273",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/112482"
+    },
+    {
+      "id": "macMini-ee0068b682990ad8",
+      "identifiers": [
+        "Macmini3,1"
+      ],
+      "name": "Mac mini (Early 2009)",
+      "family": "macMini",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-early-2009.png",
+      "imageName": "apple-ac6c365c1510e64672df",
+      "sourceURL": "https://support.apple.com/en-us/102852",
+      "specsURL": "https://support.apple.com/en-us/111345"
+    },
+    {
+      "id": "macStudio-730b04b9110cb6bd",
+      "identifiers": [
+        "Mac17,14"
+      ],
+      "name": "Mac Studio (M5 Max)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-m5-max.png",
+      "imageName": "apple-460d567c83543619b596",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/128107"
+    },
+    {
+      "id": "macStudio-6fc1c09079167ea4",
+      "identifiers": [
+        "Mac17,15"
+      ],
+      "name": "Mac Studio (M5 Ultra)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-m5-ultra.png",
+      "imageName": "apple-c6df964e609b860ed825",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/128107"
+    },
+    {
+      "id": "macStudio-6b1d1a2fb8e0ecc6",
+      "identifiers": [
+        "Mac16,9"
+      ],
+      "name": "Mac Studio (2025)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2025-m4-max.png",
+      "imageName": "apple-61b1156a33a4bdba3b0a",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/122211"
+    },
+    {
+      "id": "macStudio-874b01335eb00b35",
+      "identifiers": [
+        "Mac15,14"
+      ],
+      "name": "Mac Studio (2025)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2025-m3-ultra.png",
+      "imageName": "apple-a757d96e09c3c2bda520",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/122211"
+    },
+    {
+      "id": "macStudio-1238f61a26139b5f",
+      "identifiers": [
+        "Mac14,13"
+      ],
+      "name": "Mac Studio (2023)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2023-m2-max.png",
+      "imageName": "apple-c96ce17987769438f82c",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/111835"
+    },
+    {
+      "id": "macStudio-e10b7b9d86045c5e",
+      "identifiers": [
+        "Mac14,14"
+      ],
+      "name": "Mac Studio (2023)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2023-m2-ultra.png",
+      "imageName": "apple-9984240b34629578f1b8",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/111835"
+    },
+    {
+      "id": "macStudio-0e8b23b33d391031",
+      "identifiers": [
+        "Mac13,1"
+      ],
+      "name": "Mac Studio (2022)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2022-m1-max.png",
+      "imageName": "apple-39f19ddc33f322bcec83",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/111900"
+    },
+    {
+      "id": "macStudio-296c5248d734b462",
+      "identifiers": [
+        "Mac13,2"
+      ],
+      "name": "Mac Studio (2022)",
+      "family": "macStudio",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2022-m1-ultra.png",
+      "imageName": "apple-89332d97cfda11e445aa",
+      "sourceURL": "https://support.apple.com/en-us/102231",
+      "specsURL": "https://support.apple.com/en-us/111900"
+    },
+    {
+      "id": "macPro-5b1b67ef6aac60b7",
+      "identifiers": [
+        "Mac14,8"
+      ],
+      "name": "Mac Pro (2023)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019.jpg",
+      "imageName": "apple-aeff37f46ec2037751bd",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/111343"
+    },
+    {
+      "id": "macPro-2967c1d680e8a71e",
+      "identifiers": [
+        "Mac14,8"
+      ],
+      "name": "Mac Pro (Rack, 2023)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019-rack.jpg",
+      "imageName": "apple-e560887a0c5d5eaeff80",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/111343"
+    },
+    {
+      "id": "macPro-6f5e887613780105",
+      "identifiers": [
+        "MacPro7,1"
+      ],
+      "name": "Mac Pro (2019)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019.jpg",
+      "imageName": "apple-aeff37f46ec2037751bd",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/118461"
+    },
+    {
+      "id": "macPro-29ca7d4a316e42a2",
+      "identifiers": [
+        "MacPro7,1"
+      ],
+      "name": "Mac Pro (Rack, 2019)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019-rack.jpg",
+      "imageName": "apple-e560887a0c5d5eaeff80",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/111907"
+    },
+    {
+      "id": "macPro-301c080827231d2e",
+      "identifiers": [
+        "MacPro6,1"
+      ],
+      "name": "Mac Pro (Late 2013)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2013.jpg",
+      "imageName": "apple-3a23c8edb3107d72ab91",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/112025"
+    },
+    {
+      "id": "macPro-dd73fca390d381af",
+      "identifiers": [
+        "MacPro5,1"
+      ],
+      "name": "Mac Pro (Mid 2012)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+      "imageName": "apple-bfbf944ab1605f05b9f5",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/118464"
+    },
+    {
+      "id": "macPro-e35befd03f994fd1",
+      "identifiers": [
+        "MacPro5,1"
+      ],
+      "name": "Mac Pro Server (Mid 2012)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+      "imageName": "apple-bfbf944ab1605f05b9f5",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/118464"
+    },
+    {
+      "id": "macPro-54528f988cb26254",
+      "identifiers": [
+        "MacPro5,1"
+      ],
+      "name": "Mac Pro (Mid 2010)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+      "imageName": "apple-bfbf944ab1605f05b9f5",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/112578"
+    },
+    {
+      "id": "macPro-12e6a096afe774cd",
+      "identifiers": [
+        "MacPro5,1"
+      ],
+      "name": "Mac Pro Server (Mid 2010)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+      "imageName": "apple-bfbf944ab1605f05b9f5",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/112578"
+    },
+    {
+      "id": "macPro-0b4416e9c88af915",
+      "identifiers": [
+        "MacPro4,1"
+      ],
+      "name": "Mac Pro (Early 2009)",
+      "family": "macPro",
+      "imageURL": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+      "imageName": "apple-bfbf944ab1605f05b9f5",
+      "sourceURL": "https://support.apple.com/en-us/102887",
+      "specsURL": "https://support.apple.com/en-us/112590"
+    }
+  ]
+}
