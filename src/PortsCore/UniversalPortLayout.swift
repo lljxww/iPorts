@@ -55,7 +55,7 @@ public enum UniversalPortLayout {
         custom: CustomPortLayout? = nil
     ) -> MacModelProfile {
         let family = official?.family ?? .unknown
-        let specification = official.flatMap { specification(for: machine.identifier, model: $0) }
+        let specification = official.flatMap { Self.specification(for: machine.identifier, model: $0) }
         var diagrams: [ModelDiagram] = []
         if let custom, custom.isValid {
             for side in PortSide.allCases {
