@@ -17,7 +17,7 @@
     <key>CFBundleVersion</key>
     <string>0.8.0</string>
     <key>SUFeedURL</key>
-    <string>https://github.com/lljxww/iPorts/releases/latest/download/appcast.xml</string>
+    <string>https://github.com/mac-fantasy/iPorts/releases/latest/download/appcast.xml</string>
     <key>SUPublicEDKey</key>
     <string>7dSVn+/NnsGlYTiQtXKi97LQ3m9VQCuOnfFc/nnrxxQ=</string>
     <key>SUEnableAutomaticChecks</key>

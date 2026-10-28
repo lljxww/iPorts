@@ -5,7 +5,7 @@ repo_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_dir"
 release_tag="${1:?Usage: bash scripts/create-release.sh v1.2.3}"
 release_version="$(python3 scripts/release.py validate-tag "$release_tag")"
-release_repository="${GITHUB_REPOSITORY:-lljxww/iPorts}"
+release_repository="${GITHUB_REPOSITORY:-mac-fantasy/iPorts}"
 if [[ ! "$release_repository" =~ ^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$ ]]; then
     printf 'Invalid GitHub repository: %s\n' "$release_repository" >&2
     exit 1

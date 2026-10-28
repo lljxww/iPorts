@@ -2,13 +2,28 @@
 
 原生 macOS 菜单栏端口查看器。点击菜单栏连接器图标展开面板；没有主窗口、Dock 图标或设置窗口。使用 AppKit + SwiftUI、IOKit 和 Disk Arbitration，使用 Sparkle 提供应用更新。
 
-开源仓库：[lljxww/iPorts](https://github.com/lljxww/iPorts)。从 [GitHub Releases](https://github.com/lljxww/iPorts/releases/latest) 下载 Universal ZIP，解压后将 `iPorts.app` 放入“应用程序”；支持 Apple Silicon / Intel、macOS 14+。
+开源仓库：[mac-fantasy/iPorts](https://github.com/mac-fantasy/iPorts)。从 [GitHub Releases](https://github.com/mac-fantasy/iPorts/releases/latest) 下载 Universal ZIP，解压后将 `iPorts.app` 放入“应用程序”；支持 Apple Silicon / Intel、macOS 14+。
+
+## Homebrew 安装
+
+```bash
+brew install --cask mac-fantasy/tap/iports
+```
+
+安装源由组织的 [统一 tap](https://github.com/mac-fantasy/homebrew-tap) 维护，每 6 小时同步项目最新稳定版 Release。应用也有 Sparkle 自动更新；如需通过 Homebrew 手动升级：
+
+```bash
+brew update
+brew upgrade --cask --greedy mac-fantasy/tap/iports
+```
+
+普通卸载使用 `brew uninstall --cask mac-fantasy/tap/iports`，保留偏好和机型缓存；加 `--zap` 会清理这些数据。如果「应用程序」中已有手动安装的同名应用，请先退出并移走旧 `.app` 后再安装。当前安装包使用 ad-hoc 签名、未公证，首次打开可能需要按 macOS「隐私与安全性」提示允许打开。
 
 ## 应用自动更新
 
 应用默认自动检查、下载并安装更新。检查由 Sparkle 管理，启动后按上次检查时间安排，并在运行期间约每 24 小时检查一次；更新包来自本仓库的 GitHub Release。自动安装通常在退出应用时完成，需要授权或确认时会显示更新窗口。面板底部的更新图标提供“检查更新…”、“自动检查更新”和“自动下载并安装”开关，选择会保存在本机。关闭自动下载后仍可手动下载安装。
 
-更新源为 `https://github.com/lljxww/iPorts/releases/latest/download/appcast.xml`。发布流程使用 Ed25519 签名更新包及 appcast；应用使用内置公钥验证更新列表，并在解压前校验更新包。更新检查不附带硬件采集结果，不启用 Sparkle 系统画像。网络不可用或校验失败时保留当前版本，下次重试。
+更新源为 `https://github.com/mac-fantasy/iPorts/releases/latest/download/appcast.xml`。发布流程使用 Ed25519 签名更新包及 appcast；应用使用内置公钥验证更新列表，并在解压前校验更新包。更新检查不附带硬件采集结果，不启用 Sparkle 系统画像。网络不可用或校验失败时保留当前版本，下次重试。
 
 没有自动更新功能的旧版本需要手动安装一次新版，此后即可通过应用更新。当前发布包使用 ad-hoc 签名，未进行 Apple Developer ID 签名与公证；Sparkle 的更新签名用于确认更新来源，不能替代 macOS Gatekeeper 的首次安装验证。
 
@@ -186,7 +201,7 @@ bash scripts/create-release.sh v0.8.1
 # CI 或另一台机器可通过 SPARKLE_PRIVATE_KEY 环境变量注入同一私钥。
 ```
 
-如需迁移私钥，使用 Sparkle 的 `generate_keys --account lljxww.iPorts -x <安全路径>` 导出，再通过 `gh secret set SPARKLE_PRIVATE_KEY --repo lljxww/iPorts < <安全路径>` 设置仓库 Secret。导出文件需放在仓库外并限制权限，完成后删除。新建 fork 时需同时修改 `SUFeedURL`、公钥、发布脚本中的默认仓库，并为自己的仓库生成独立密钥。
+如需迁移私钥，使用 Sparkle 的 `generate_keys --account lljxww.iPorts -x <安全路径>` 导出，再通过 `gh secret set SPARKLE_PRIVATE_KEY --repo mac-fantasy/iPorts < <安全路径>` 设置仓库 Secret。导出文件需放在仓库外并限制权限，完成后删除。新建 fork 时需同时修改 `SUFeedURL`、公钥、发布脚本中的默认仓库，并为自己的仓库生成独立密钥。
 
 Sparkle 集成与签名方式参考[官方文档](https://sparkle-project.org/documentation/)。
 
